@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/NOqjMqX.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/3XRSwO2.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Daily disk backup in Windows</h1>
@@ -63,7 +63,7 @@ That's it! You're done. Should you check the details of the NicTeam interface it
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/Ogt5mZm.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/S5L4DXX.jpg" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
  
