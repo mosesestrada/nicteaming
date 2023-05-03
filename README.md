@@ -2,7 +2,7 @@
  <img src="https://i.imgur.com/3XRSwO2.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
-<h1>Daily disk backup in Windows</h1>
+<h1>Configure NIC Teaming</h1>
 
 
 <h2>Description</h2>
