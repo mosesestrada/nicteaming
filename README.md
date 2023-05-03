@@ -42,7 +42,7 @@ Back in the Server Manager. Click Local Server then under Nic Teaming click the 
 <br />
 Click the Tasks pull down menu and then select "New Team"
 <br/>
-<img src="https://i.imgur.com/Uj5yWLB.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/47qEOI9.png" height="80%" width="80%" alt="DHCP"/>
 <br />
 <br />
 Select and configure your adapters and settings. Research what settings works best for your network. I used the name NetTeam for this demonstration but you can name it whatever you want. Click ok when finished and close all boxes.
