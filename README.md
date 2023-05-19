@@ -26,44 +26,44 @@ So buckle up and get ready to witness the power of NIC teaming in action.
 <br />
 Search for Network and Sharing Center.
  <br/>
-<img src="https://i.imgur.com/G0FmySd.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/G0FmySd.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 Copy your the IP configuration of your primary ethernet adapter.
  <br/>
-<img src="https://i.imgur.com/HUbLC6P.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/HUbLC6P.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 Back in the Server Manager. Click Local Server then under Nic Teaming click the "Disabled" link.
 
  <br/>
-<img src="https://i.imgur.com/1n4rirv.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/1n4rirv.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 Click the Tasks pull down menu and then select "New Team"
 <br/>
-<img src="https://i.imgur.com/47qEOI9.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/47qEOI9.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 Select and configure your adapters and settings. Research what settings works best for your network. I used the name NetTeam for this demonstration but you can name it whatever you want. Click ok when finished and close all boxes.
 
  <br/>
-<img src="https://i.imgur.com/bDsCrYP.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/bDsCrYP.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 Enter the IP configuration of our primary adapter from the first step.
  <br/>
-<img src="https://i.imgur.com/jmQiPHR.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/jmQiPHR.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 That's it! You're done. Should you check the details of the NicTeam interface it should reflect the primary adapter and we're good to go.
  <br/>
-<img src="https://i.imgur.com/BPI2puP.png" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/BPI2puP.png" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
 I hope you enjoyed this demonstration.
  <br/>
-<img src="https://i.imgur.com/NHP3IkF.jpg" height="80%" width="80%" alt="DHCP"/>
+<img src="https://i.imgur.com/4UfZ99N.jpg" height="80%" width="80%" alt="nicteam"/>
 <br />
 <br />
  
